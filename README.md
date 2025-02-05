@@ -26,6 +26,8 @@ German Federal Motor Vehicle Office (KBA)
 European Emissions Trading Scheme (ETS)
 Various national studies on fleet transition
 
+KBA data cannot be shared as raw data, as it is under an NDA. For data, which is derived from KBA, contact the authors.
+
 # Contributing
 Contributions are welcome! To propose changes:
 Fork the repository.
