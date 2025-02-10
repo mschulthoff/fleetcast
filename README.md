@@ -1,5 +1,6 @@
 # FLEETCAST
 FLEETCAST: Fleet Lifecycle Evaluation:  Enhanced Trend Cohort Analysis and Strategy Toolkit
+German car market edition (truck edition comes soon)
 
 # Overview
 
@@ -22,7 +23,7 @@ Results will be shown in the "Results" and visualized in the "Dashboard" sheet
 # Data Sources
 The model utilizes data from:
 Verkehr in Zahlen (VIZ)
-German Federal Motor Vehicle Office (KBA)
+German Federal Motor Vehicle Office (KBA) - Microdata 2015-2023
 European Emissions Trading Scheme (ETS)
 Various national studies on fleet transition
 
