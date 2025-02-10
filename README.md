@@ -1,6 +1,6 @@
 # FLEETCAST
 FLEETCAST: Fleet Lifecycle Evaluation:  Enhanced Trend Cohort Analysis and Strategy Toolkit
-German car market edition (truck edition comes soon)
+- German car market edition (truck edition comes soon)
 
 # Overview
 
