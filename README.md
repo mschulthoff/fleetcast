@@ -4,17 +4,17 @@ FLEETCAST: Fleet Lifecycle Evaluation:  Enhanced Trend Cohort Analysis and Strat
 
 # Overview
 
-This repository contains an open-source fleet model designed to analyze the transition of Germany’s vehicle fleet from internal combustion engine vehicles (ICEVs) to battery electric vehicles (BEVs) and other alternative powertrain technologies. The model assesses fleet evolution, final energy demand (FED), and cumulative CO₂ emissions under different policy and market scenarios. The model was created for the study "DOI".
+This repository contains an open-source fleet model designed to analyze the transition of Germany’s vehicle fleet from internal combustion engine (ICEs) to battery electric vehicles (BEVs) and other alternative powertrain technologies. The model assesses fleet evolution, final energy demand (FED), and cumulative CO₂ emissions under different policy and market scenarios. The model was created for the study "DOI".
 The respository conatins the Excel model Fleetcast (full access), a "hidden" version, which focusses on creating new scenarios without chaning data inputs and assumptions, as well as the comparison of different scenarios conducted in the study "DOI". 
 
 # Features
 Scenario Analysis: Includes multiple transition scenarios (S100, D100, L100, S80, Linear 100) to explore BEV adoption rates.
 Energy and Emissions Modeling: Tracks energy demand and emissions reductions under various regulatory frameworks.
-Policy Impact Assessment: Evaluates the effectiveness of CO₂ fleet limits, emissions trading schemes (ETS I & II), and incentives.
+Policy Impact Assessment: Evaluates the effectiveness of CO₂ fleet limits.
 Open-Source and Customizable: Users can modify input parameters to test alternative transition pathways.
 
 # Installation
-To use this model, clone the repository and ensure you have Excel installed.
+To use this model, clone the repository and ensure you have Microsoft Excel installed.
 
 # Usage
 The model is parameterized with official datasets and validated against historical data. To run a simulation:
